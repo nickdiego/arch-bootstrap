@@ -54,6 +54,7 @@ packages_graphics=(
     xf86-video-intel
     xorg-xprop
     xorg-xkill
+    xsel
     awesome
     plasma-workspace
     compton
@@ -64,6 +65,7 @@ packages_graphics=(
     gnome-tweak-tool gnome-keyring
     numix-gtk-theme
     arc-gtk-theme
+    adapta-gtk-theme
     nautilus
     deepin-icon-theme oxygen-icons
     adapta-gtk-theme
@@ -75,6 +77,7 @@ packages_graphics=(
 
 # AUR
 packages_aur=(
+    spotify
     dropbox
     slack-desktop
     telegram-desktop
@@ -93,6 +96,7 @@ packages_aur=(
     android-sdk-build-tools
     samsung-unified-driver
     tmux-bash-completion
+    repo-bash-completion
     )
 
 # Let's do it!
