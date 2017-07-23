@@ -37,6 +37,7 @@ packages_core=(
     repo
     boost
     python
+    task
     )
 
 packages32=(
