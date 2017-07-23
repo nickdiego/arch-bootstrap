@@ -73,6 +73,7 @@ packages_graphics=(
     gparted
     eom
     evince
+    udiskie
     )
 
 # AUR
