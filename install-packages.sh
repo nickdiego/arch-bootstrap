@@ -6,6 +6,7 @@ packages_core=(
     base-devel
     git
     bash-completion
+    clang
     openssh
     amixer-utils
     alsa-utils
@@ -38,6 +39,8 @@ packages_core=(
     boost
     python
     task
+    unzip
+    pidcat
     )
 
 packages32=(
@@ -67,7 +70,6 @@ packages_graphics=(
     numix-gtk-theme
     arc-gtk-theme
     adapta-gtk-theme
-    nautilus
     deepin-icon-theme oxygen-icons
     adapta-gtk-theme
     playerctl
@@ -75,6 +77,10 @@ packages_graphics=(
     eom
     evince
     udiskie
+    nemo
+    nemo-fileroler
+    nemo-share
+    unclutter
     )
 
 # AUR
@@ -99,6 +105,8 @@ packages_aur=(
     samsung-unified-driver
     tmux-bash-completion
     repo-bash-completion
+    rtags
+    dex2jar
     )
 
 # Let's do it!
