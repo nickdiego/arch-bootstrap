@@ -41,6 +41,7 @@ packages_core=(
     task
     unzip
     pidcat
+    pass
     )
 
 packages32=(
@@ -81,6 +82,7 @@ packages_graphics=(
     nemo-fileroler
     nemo-share
     unclutter
+    conky
     )
 
 # AUR
@@ -107,6 +109,7 @@ packages_aur=(
     repo-bash-completion
     rtags
     dex2jar
+    ttf-font-awesome
     )
 
 # Let's do it!
