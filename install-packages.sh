@@ -87,6 +87,7 @@ packages_graphics=(
 
 # AUR
 packages_aur=(
+    grub-hook
     spotify
     dropbox
     slack-desktop
